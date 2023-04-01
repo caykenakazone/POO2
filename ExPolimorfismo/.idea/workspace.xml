@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="935ee37b-06fc-4c77-ac82-c6f43ba3981f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../CarlosCayke_tipoGenerico/CarlosCayke_tipoGenerico.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExHeranca.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex1/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex1/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex1/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex1/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex10/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex10/Cachorro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex10/Fazenda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex10/Galinha.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex10/Gato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex10/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex10/Mamifero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex10/Vaca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex2/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex2/Cachorro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex2/Gato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex2/Vaca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex3/Caminhao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex3/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex3/Moto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex3/Veiculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex4/Assistente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex4/Diretor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex4/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex4/Gerente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex5/Alimento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex5/Eletronico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex5/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex5/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex5/Vestuario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex6/Conta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex6/ContaCorrente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex6/ContaPoupanca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex7/Circulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex7/Figura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex7/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex7/Retangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex7/Triangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex8/Computador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex8/Desktop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex8/Notebook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex8/Servidor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex9/CalculadoraDeAreas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex9/Circulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex9/Forma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex9/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex9/Quadrado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExHeranca/Ex9/Triangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex1/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex1/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex1/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex1/Professor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex10/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex10/Cachorro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex10/Fazenda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex10/Galinha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex10/Gato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex10/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex10/Mamifero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex10/Vaca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2/Cachorro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2/Gato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2/Vaca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3/Caminhao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3/Moto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex4/Assistente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex4/Diretor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex4/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex4/Gerente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex5/Alimento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex5/Eletronico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex5/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex5/Vestuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex6/Conta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex6/ContaCorrente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex6/ContaPoupanca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex6/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex7/Circulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex7/Figura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex7/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex7/Retangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex7/Triangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex8/Computador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex8/Desktop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex8/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex8/Notebook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex8/Servidor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex9/CalculadoraDeAreas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex9/Circulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex9/Forma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex9/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex9/Quadrado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex9/Triangulo.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NA2TY08FIsVrEVNehZrJajniQB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/CarlosCayke/POO2/ExClassesAbstratas",
+    "settings.editor.selected.configurable": "preferences.editor"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\CarlosCayke\POO2\ExHeranca\src\Ex1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Ex3" />
+      <recent name="Ex1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ex12.Main">
+    <configuration name="Ex10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex10.Main" />
+      <module name="ExHeranca" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex12.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex12.Main" />
+      <module name="ExHeranca" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex8.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex8.Main" />
+      <module name="ExHeranca" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex9.Main" />
+      <module name="ExHeranca" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex11.Main" />
+      <module name="ExHeranca" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex12.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Ex10.Main" />
+        <item itemvalue="Application.Ex9.Main" />
+        <item itemvalue="Application.Ex8.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="935ee37b-06fc-4c77-ac82-c6f43ba3981f" name="Changes" comment="" />
+      <created>1679092573702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679092573702</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
