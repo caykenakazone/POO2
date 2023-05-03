@@ -1,7 +1,7 @@
 import java.time.LocalDate;
 import java.util.ArrayList;
 
-public class Emprestimo {
+abstract class Emprestimo {
     private Usuario usuario;
     private ArrayList<Item> itens;
     private LocalDate dataEmprestimo;

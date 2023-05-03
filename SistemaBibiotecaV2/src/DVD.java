@@ -1,4 +1,4 @@
-public class DVD extends Item{
+    public class DVD extends Item{
     private String genero;
     private double duracao;
 
